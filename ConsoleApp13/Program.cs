@@ -16,9 +16,9 @@
                 System.Threading.Thread.Sleep(2000);
                 if(i == 8)
                 {
-                    System.Diagnostics.Debugger.Launch();
+                    //System.Diagnostics.Debugger.Launch();
                 }
-
+                //System.Diagnostics.Debugger.Break
             }
         }
     }
